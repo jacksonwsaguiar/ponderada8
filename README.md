@@ -4,7 +4,7 @@
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/jacksonwsaguiar/ponderada7
+    git clone https://github.com/jacksonwsaguiar/ponderada8
     ```
 
 2. Navegue até o diretório do projeto:
