@@ -35,5 +35,5 @@ Este script em Python realiza o reconhecimento de fala em um arquivo de áudio e
 ## Demonstração em Vídeo
 
 Demonstração completa do funcionamento:
-https://drive.google.com/file/d/1n4k3b6_7FSJBuOas8gHUvF4Nvky75wWG/view?usp=sharing
+https://drive.google.com/file/d/1YvEKFMswNT-IcDVvZZnX-C6X5LziRLpH/view?usp=sharing
 
